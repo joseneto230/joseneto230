@@ -27,7 +27,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           
           outputs: |
-            dist/github-snake.svg?color_snake=red&color_dots=#334a30,##0e4429,#006d32,#26a241,#39d353
+            dist/github-snake.svg?color_snake=red&color_dots=#161b22,#0e4429,#006d32,#26a241,#39d353
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       - run: git status
